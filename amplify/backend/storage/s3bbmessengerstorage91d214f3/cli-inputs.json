@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3bbmessengerstorage91d214f3",
+  "bucketName": "bbmessenger-storage-91d214f3",
+  "policyUUID": "94b0434a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

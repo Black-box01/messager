@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bbmessenger-staging-01612-authRole",
+      "UnauthRoleArn": "arn:aws:iam::899820630438:role/amplify-bbmessenger-staging-01612-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::899820630438:role/amplify-bbmessenger-staging-01612-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bbmessenger-staging-01612-deployment",
+      "UnauthRoleName": "amplify-bbmessenger-staging-01612-unauthRole",
+      "StackName": "amplify-bbmessenger-staging-01612",
+      "StackId": "arn:aws:cloudformation:us-east-1:899820630438:stack/amplify-bbmessenger-staging-01612/e412ea80-5bd5-11ed-95f4-0e52f1ce953b",
+      "AmplifyAppId": "d1fltf7p87o0g7"
+    },
+    "categories": {
+      "auth": {
+        "bbmessenger": {}
+      },
+      "api": {
+        "bbmessenger": {}
+      }
+    }
+  }
+}
